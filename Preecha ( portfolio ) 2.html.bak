@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ 
+
+
+
+  <style>
+table, td {border:2px solid black;}
+</style>
+
+ </head>
+ <body>
+
+
+<font face="TH sarabunPSK" size="7">
+<table  width="720" align="center" bgcolor="pink">
+
+
+<tr><td colspan="3"><img src="D:\Preecha002\images\@reallygreatsite.png" width="" align="center"></td></tr>
+
+
+    <tr BGCOLOR="#00FFFF"> 
+	
+	<td align="center"><font color = "#8A2BE2"><a href="Preecha ( portfolio ) 2.html" ><b><img src="D:\Preecha002\images\home.png" width="50" align="center" ></b></a> </font>
+	</td>
+
+
+
+	<td align="center"><font color = "#8A2BE2"><a href="ประวัติ.html" ><b><img src="D:\Preecha002\images\216221.png" width="50" align="center"></b></a></font></td> 
+
+
+	<td align="center"><font color = "#8A2BE2"><a href="ติดต่อ.html" ><b><img src="D:\Preecha002\images\2950648.png" width="60" align="center"></b></a></font></td> </tr>
+
+
+    <tr> <td rowspan="2" colspan="2"  style="line-height:5px" align="center">
+	<font size="6"><p><font color = "#">ชื่อ นายปรีชา จันชัยภูมิ </font></p>
+	<p><font color = "">ศึกษาอยู่ที่มหาวิทยาลัยราชภัฎเพชรบูรณ์ </font></p>
+	<p><font color = "">สาขาคณิตศาสตร์และวิทยาการคำนวณ </font></p>
+	<p><font color = "">คณะวิทยาศาสตร์และเทคโนโลยี</font></p>
+	<p><font color = "#3300FF"><b>ความสามารถพิเศษ</b></font></p>
+	<p><font color = "#">ประดิษฐ์สิ่งของได้จากความคิดอันชาญฉลาด</p>
+	<p><font color = "#3300FF"><b></b></font></p>
+	<p><font color = "#"></font></p>
+	<p><font color = "#"></font></p>
+	<img src="D:\Preecha002\pwjei6fhz6w4Y9bkF7q-o.gif" width="200" align="center">
+	</td> 
+	<td width="200" ><img src="D:\Preecha002\นพ.jpg" width="200" align="center"> </td>   
+	</tr>
+
+
+    <tr> <td style="line-height:5px"><br><p>...................</p><p>...................</p><p>...................</p></td> </tr>
+
+
+	<tr BGCOLOR="yellow"> <td colspan="3" align="center"><font color = "#8A2BE2"><b>ท้อได้แต่อย่าถอย </b></font></td>  </tr>
+
+
+
+	<tr><td colspan="3"><img src="D:\Preecha002\images\@reallygreatsite.png" width="" align="center"></td></tr>
+
+
+</table>
+</font>
+
+
+
+
+</body> 
+</html>
